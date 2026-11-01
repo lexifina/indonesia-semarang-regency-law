@@ -1,0 +1,13 @@
+{
+ "parts": {
+  "20-perda-01.json": {
+   "acts": [
+    "perda-2025-001-pengelolaan-tempat-pemakaman",
+    "perda-2025-007-pencabutan-peraturan-daerah-nomor-26-tahun-2016-tentang-pengelolaan",
+    "perda-2025-008-pencabutan-peraturan-daerah-nomor-5-tahun-2016-tentang-izin"
+   ],
+   "sha256": "443dc5f0fa1ae16dc2830b10a227d5f2f0dd5bd0830e73032c95a2078668bec9"
+  }
+ },
+ "schema": 1
+}

@@ -1,0 +1,9 @@
+{
+  "path": "id-jt-semarang",
+  "code": "ID-JT-SEMARANG",
+  "name": "Semarang Regency (Indonesia)",
+  "level": "regency",
+  "parent": "id-jt",
+  "repo": "https://github.com/lexifina/indonesia-semarang-regency-law",
+  "build": "built: Peraturan Daerah (Perda) of Kabupaten Semarang as enacted, Indonesian text, from JDIH Kabupaten Semarang (Bagian Hukum Sekretariat Daerah Kabupaten Semarang)"
+}

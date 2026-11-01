@@ -1,0 +1,47 @@
+{
+ "country": "ID-JT-SEMARANG",
+ "acts": [
+  {
+   "slug": "perda-2025-001-pengelolaan-tempat-pemakaman",
+   "short": "Perda Semarang Regency 1/2025",
+   "title": "PERATURAN DAERAH KABUPATEN SEMARANG NOMOR 1 TAHUN 2025 TENTANG PENGELOLAAN TEMPAT PEMAKAMAN",
+   "url": "https://jdih.semarangkab.go.id/produk/detail/3022",
+   "versions": [
+    {
+     "from": "2025-02-12",
+     "units": 42,
+     "source_url": "https://jdih.semarangkab.go.id/uploads/produk_hukum/2025pd3322001.pdf",
+     "sha256": "324bc71f602099c232c1b60eb41991dceabb126cc5ef9dd98be05b387baee6d6"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-007-pencabutan-peraturan-daerah-nomor-26-tahun-2016-tentang-pengelolaan",
+   "short": "Perda Semarang Regency 7/2025",
+   "title": "PERATURAN DAERAH KABUPATEN SEMARANG NOMOR 7 TAHUN 2025 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 26 TAHUN 2016 TENTANG PENGELOLAAN LIMBAH BAHAN BERBAHAYA DAN BERACUN",
+   "url": "https://jdih.semarangkab.go.id/produk/detail/3136",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 5,
+     "source_url": "https://jdih.semarangkab.go.id/uploads/produk_hukum/2025pd3322007.pdf",
+     "sha256": "d89b7aa3c9c1be702a5621309f2bad75e17528a33a972c751d8d15441d17a27e"
+    }
+   ]
+  },
+  {
+   "slug": "perda-2025-008-pencabutan-peraturan-daerah-nomor-5-tahun-2016-tentang-izin",
+   "short": "Perda Semarang Regency 8/2025",
+   "title": "PERATURAN DAERAH KABUPATEN SEMARANG NOMOR 8 TAHUN 2025 TENTANG PENCABUTAN PERATURAN DAERAH NOMOR 5 TAHUN 2016 TENTANG IZIN PEMBUANGAN AIR LIMBAH DAN IZIN PEMANFAATAN AIR LIMBAH",
+   "url": "https://jdih.semarangkab.go.id/produk/detail/3137",
+   "versions": [
+    {
+     "from": "2025-09-01",
+     "units": 5,
+     "source_url": "https://jdih.semarangkab.go.id/uploads/produk_hukum/2025pd3322008.pdf",
+     "sha256": "a7d57c8e36adcd595804f95115d7879c1e695932c957404c828ced7d72913411"
+    }
+   ]
+  }
+ ]
+}
