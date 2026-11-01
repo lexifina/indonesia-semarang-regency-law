@@ -44,7 +44,7 @@ When a law gives no date of its own, the default rule applies: A Peraturan Daera
 
 - Corpus: sha256 `d95916e2298f582e69504b872c8a3bf9f72c4ce3331c79c128d9b603e0e11d29` (62106 bytes).
 - Builder blob hashes (`git hash-object`): `build.py` `35388bee5aa05369f7da68f5a8fa015ea8d442b8`, `check.py` `5d719354ea4c62d240c93d2cae446307d81d9e81`, `on.py` `aff48cf1b68d50c7ba8f399ca32261871c301824`.
-- Python 3.12.10; git version 2.46.0.windows.1.
+- Python 3.14.4; git version 2.53.0.
 
 ## Checks
 
