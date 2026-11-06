@@ -1,5 +1,7 @@
 # Semarang Regency (Indonesia): law history in git
 
+Part of [lexifina/global-law](https://github.com/lexifina/global-law), one git history for every country's law: this is the law of Semarang Regency, Indonesia, which global-law reads at `indonesia/semarang-regency/acts/`.
+
 The Peraturan Daerah (Perda) of Kabupaten Semarang, Indonesia, as a git history: one folder per Perda, one file per Pasal (article), one paragraph per line, so `git blame`, `git log` and `git diff` work line by line. The text is the Indonesian text of each Perda as enacted, from the copy (salinan) published by JDIH Kabupaten Semarang (Bagian Hukum Sekretariat Daerah Kabupaten Semarang).
 
 It follows the shared design of [lexifina/global-law](https://github.com/lexifina/global-law).
